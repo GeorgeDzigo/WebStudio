@@ -1,0 +1,146 @@
+/* Header */
+      .header{
+            width: 100%;
+            height: 110px;
+      }
+      /* logo */
+            .logo{
+                  display: inline-block;
+                  position: absolute;
+                  top: 4%;
+                  left: 10%;
+            }
+      /* End Logo */
+
+      /* Navigation  */
+            .nav{
+                  display: inline-block;
+                  top: 5%;
+                  left: 55%;
+                  position: absolute;
+            }
+
+            .nav-ul-li {
+                  display: inline;
+                  padding-right: 35px;
+            }
+
+            .nav-ul-li-a {
+                  color: black;
+                  font-size: 134%;
+            }
+            
+
+            
+      /* End Navigation */
+
+/* End Header */
+
+/* Entry Section */
+      .entry{
+            width: 100%;
+            height: 700px;
+            background-image: url(https://www.kobedigital.com/wp-content/uploads/2018/08/robot-flipped-lower.jpg);
+            background-size: cover;
+      }
+      /* Texts on left side */
+            .left-side-text-container {
+                  top: 37%;
+                  position: absolute;
+            }
+
+            .left-a{
+                  color: #333;
+                  font-size: 45px;
+            }
+            .left-c{
+                  color: #333;
+                  font-size: 45px;
+            }
+            .left-b{
+                  color: #f15a2e;
+                  font-size: 45px;
+            }
+            .left-d{
+                  color:#58585a!important;
+                  font-size: 21px;
+            }
+        
+      /* End Texts on left side */
+
+      /* Texts on right side */
+            .right-side-text-container{
+                  top: 37%;
+                  position: absolute;
+                  left: 56%;
+                  font-size: 35px;
+            }
+            .right-a {
+                  color: #58585a;
+            }
+            .right-b {
+                  color: #f15a2e;
+            }
+            
+            /* Slider */
+                  #slider{
+                        left: 237px;
+                        position: absolute;
+                  }
+                  #slider img{
+                        height: 150px;
+                  }
+            /* End Slider */
+
+      /* End Texts on right side */
+
+/* End Entry Section */
+      /* Sponsor section images */
+            .sponsor-section-imgs {
+                  width: 150px;
+                  height: 50px;
+                  padding: 35px;
+            }
+      /* End Sponsor section images */
+/*  Sponsor Section*/
+
+
+/* PB Section */
+      .pb-section{
+            height:316px;
+            background-image: url(https://www.kobedigital.com/wp-content/uploads/2017/09/orange-banner.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            -webkit-background-size: 100%;
+            -webkit-background-size: cover;
+            -moz-background-size: 100%;
+            -moz-background-size: cover;
+            background-size: 100%;
+            background-size: cover;
+      }
+      /* PB Section ps wrapper */
+            .pb-section-p {
+                  font-size: 30px;
+                  color:white;    
+                  line-height: 44px;
+            }
+
+            .pb-section-ps-wrapper{
+                  position: relative;
+                  top: 120px;
+            }
+
+            .pb-section-about-us-btn {
+                  width: 130px;
+                  height: 16px;
+                  padding: 15px;
+                  background-color: white;
+                  font-size: .9em;
+                  color: #f15a2e;
+                  position: relative;
+                  top: 150px;
+                  border-radius: 5px;
+            }
+      /* End PB Section ps wrapper */
+
+/* End PB Section */
